@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Java on Tony Bui</title>
-    <link>https://tonybui1812.github.io/topics/java/</link>
-    <description>Recent content in Java on Tony Bui</description>
+    <title>Java on Easy Tony</title>
+    <link>https://easytony.github.io/topics/java/</link>
+    <description>Recent content in Java on Easy Tony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tonybui1812.github.io/topics/java/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://easytony.github.io/topics/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>JNDI - Understand</title>
-      <link>https://tonybui1812.github.io/post/jndi/simple/</link>
+      <link>https://easytony.github.io/post/jndi/simple/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tonybui1812.github.io/post/jndi/simple/</guid>
-      <description>&lt;p&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://tonybui1812.github.io/css/w3css_4_w3.css&#34;&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://tonybui1812.github.io/highlight/styles/default.css&#34;&gt;
-&lt;script src=&#34;https://tonybui1812.github.io/highlight/highlight.pack.js&#34;&gt;&lt;/script&gt;
+      <guid>https://easytony.github.io/post/jndi/simple/</guid>
+      <description>&lt;p&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://easytony.github.io/css/w3css_4_w3.css&#34;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://easytony.github.io/highlight/styles/default.css&#34;&gt;
+&lt;script src=&#34;https://easytony.github.io/highlight/highlight.pack.js&#34;&gt;&lt;/script&gt;
 &lt;script&gt;hljs.initHighlightingOnLoad();&lt;/script&gt;
 What we have in this post:&lt;/p&gt;
 
